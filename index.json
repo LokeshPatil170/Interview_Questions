@@ -29,7 +29,12 @@
         "id" : "5",
         "question" : "Where would you like to be in your career five years from now?",
         "answerLink" : "To learn and Obseve "
-    }, 
+    },
+      {
+        "id" : "169",
+        "question" : "What Are the situations when you will resign from this job?",
+        "answerLink" : "1.If family issue 2. If my health issue  "
+    },
     {
         "id" : "6",
         "question" : "What's your ideal company?",
